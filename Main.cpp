@@ -2,9 +2,7 @@
 #include<math.h>
 #include<stdio.h>
 
-
-
-void sun()
+void sun()             // Create sun
 {
     pieslice(540,100,0,360,30);
 }
